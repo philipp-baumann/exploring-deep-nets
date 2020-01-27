@@ -8,4 +8,4 @@ Philipp Baumann
 Neural networks are known since Rosenblatt’s perceptron which was
 developed in the fifties. Typically, such networks consist of a set of
 neurons arranged in an input layer, one or more hidden layers, and an
-output layer.
+output layer. Neural networks are fueled by Hebb’s postulate.
